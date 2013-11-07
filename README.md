@@ -9,6 +9,8 @@ The sensors are:
 Wind speed, wind direction, rainfall:
 SparkFun Weather Sensor part # SEN-08942
 https://www.sparkfun.com/products/8942
+You can also purchase directly from Argent Data Systems:
+https://www.argentdata.com/catalog/product_info.php?cPath=29&products_id=145
 
 Indoor Humidity:
 SparkFun HIH-4030 breakout board, part # SEN-09569 
