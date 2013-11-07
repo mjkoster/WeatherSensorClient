@@ -18,6 +18,8 @@ https://www.sparkfun.com/products/9569
 Barometric Pressure, indoor temperature:
 SparkFun BMP085 breakout board, part # SEN-11282
 https://www.sparkfun.com/products/11282
+*above is discontinued but Adafruit has it (also look at ebay and amazon...)
+http://www.adafruit.com/products/391
 
 Outdoor Humidity and Temperature:
 SparkFun SHT15 breakout board, part # SEN-08257
