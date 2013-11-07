@@ -11,7 +11,7 @@ SparkFun Weather Sensor part # SEN-08942
 https://www.sparkfun.com/products/8942
 
 Indoor Humidity:
-SparkFun HIH-4030 breakout board, part # SEN-09569
+SparkFun HIH-4030 breakout board, part # SEN-09569 
 https://www.sparkfun.com/products/9569
 
 Barometric Pressure, indoor temperature:
